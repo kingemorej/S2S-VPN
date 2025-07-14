@@ -31,7 +31,7 @@ VMNet 8(NAT)
 	DHCP: Checked
 	
 _____________________
-********************* DEPLOY CSRS AND LINUX
+******************** DEPLOY CSRS AND LINUX
 
 Note the following VM Files:
 
@@ -78,7 +78,7 @@ Deploy 2 YVM-v6
 	Network Adapter: VMNet4
 
 _____________________
-********************* CONFIGURE DEVICES
+******************** CONFIGURE DEVICES
 
 @VPN-PH
 conf t
